@@ -5,7 +5,7 @@
 4. git push
 
 (SI NO TENEMOS REPO EN GITHUB)
-4. pasos de github al crear repo
+4. pasos de github al crear repo.
 
 
 
